@@ -1,0 +1,624 @@
+HOTEL CALIFORNIA 
+Eagles
+
+---------------------------------------- 
+ON A DARK DESERT HIGHWAY
+COOL WIND IN MY HAIR
+WARM SMELL OF COLITAS
+RISING UP THROUGH THE AIR
+
+UP AHEAD IN THE DISTANCE
+I SAW A SHIMMERING LIGHT
+MY HEAD GREW HEAVY, AND MY SIGHT GREW DIM
+I HAD TO STOP FOR THE NIGHT
+
+THERE SHE STOOD IN THE DOORWAY
+I HEARD THE MISSION BELL
+AND I WAS THINKING TO MYSELF:
+"THIS COULD BE HEAVEN OR THIS COULD BE HELL"
+
+THEN SHE LIT UP A CANDLE
+AND SHE SHOWED ME THE WAY
+THERE WERE VOICES DOWN THE CORRIDOR
+I THOUGHT I HEARD THEM SAY
+
+WELCOME TO THE HOTEL CALIFORNIA
+SUCH A LOVELY PLACE (SUCH A LOVELY PLACE)
+SUCH A LOVELY FACE
+
+PLENTY OF ROOM AT THE HOTEL CALIFORNIA
+ANY TIME OF YEAR (ANY TIME OF YEAR)
+YOU CAN FIND IT HERE
+
+HER MIND IS TIFFANY-TWISTED
+SHE GOT THE MERCEDES BENZ
+SHE GOT A LOT OF PRETTY, PRETTY BOYS SHE CALLS FRIENDS
+
+HOW THEY DANCE IN THE COURTYARD
+SWEET SUMMER SWEAT
+SOME DANCE TO REMEMBER
+SOME DANCE TO FORGET
+
+SO I CALLED UP THE CAPTAIN:
+"PLEASE BRING ME MY WINE"
+HE SAID: "WE HAVEN'T HAD THAT SPIRIT HERE SINCE 1969"
+
+AND STILL THOSE VOICES ARE CALLING FROM FAR AWAY
+WAKE YOU UP IN THE MIDDLE OF THE NIGHT
+JUST TO HEAR THEM SAY
+
+WELCOME TO THE HOTEL CALIFORNIA
+SUCH A LOVELY PLACE (SUCH A LOVELY PLACE)
+SUCH A LOVELY FACE
+
+THEY'RE LIVING IT UP AT THE HOTEL CALIFORNIA
+WHAT A NICE SURPRISE (WHAT A NICE SURPRISE)
+BRING YOUR ALIBIS
+
+MIRRORS ON THE CEILING
+THE PINK CHAMPAGNE ON ICE
+AND SHE SAID: "WE ARE ALL JUST PRISONERS HERE OF OUR OWN DEVICE"
+
+AND IN THE MASTER'S CHAMBERS
+THEY GATHERED FOR THE FEAST
+THEY STAB IT WITH THEIR STEELY KNIVES
+BUT THEY JUST CAN'T KILL THE BEAST
+
+LAST THING I REMEMBER
+I WAS RUNNING FOR THE DOOR
+I HAD TO FIND THE PASSAGE BACK
+TO THE PLACE I WAS BEFORE
+
+"RELAX," SAID THE NIGHT MAN
+"WE ARE PROGRAMMED TO RECEIVE
+YOU CAN CHECK OUT ANY TIME YOU LIKE
+BUT YOU CAN NEVER LEAVE"
+------------------------------------- 
+
+
+WORD HISTOGRAM
+
+----------------------------------------
+ On           | 1
+ a            | 12
+ dark         | 1
+ desert       | 1
+ highway      | 1
+ Cool         | 1
+ wind         | 1
+ in           | 6
+ my           | 3
+ hair         | 1
+ Warm         | 1
+ smell        | 1
+ of           | 7
+ colitas      | 1
+ Rising       | 1
+ up           | 5
+ through      | 1
+ the          | 24
+ air          | 1
+ Up           | 1
+ ahead        | 1
+ in           | 6
+ the          | 24
+ distance     | 1
+ I            | 11
+ saw          | 1
+ a            | 12
+ shimmering   | 1
+ light        | 1
+ My           | 1
+ head         | 1
+ grew         | 2
+ heavy,       | 1
+ and          | 1
+ my           | 3
+ sight        | 1
+ grew         | 2
+ dim          | 1
+ I            | 11
+ had          | 3
+ to           | 9
+ stop         | 1
+ for          | 3
+ the          | 24
+ night        | 3
+ There        | 2
+ she          | 5
+ stood        | 1
+ in           | 6
+ the          | 24
+ doorway      | 1
+ I            | 11
+ heard        | 2
+ the          | 24
+ mission      | 1
+ bell         | 1
+ And          | 5
+ I            | 11
+ was          | 3
+ thinking     | 1
+ to           | 9
+ myself:      | 1
+ "This        | 1
+ could        | 2
+ be           | 2
+ heaven       | 1
+ or           | 1
+ this         | 1
+ could        | 2
+ be           | 2
+ hell"        | 1
+ Then         | 1
+ she          | 5
+ lit          | 1
+ up           | 5
+ a            | 12
+ candle       | 1
+ And          | 5
+ she          | 5
+ showed       | 1
+ me           | 2
+ the          | 24
+ way          | 1
+ There        | 2
+ were         | 1
+ voices       | 2
+ down         | 1
+ the          | 24
+ corridor     | 1
+ I            | 11
+ thought      | 1
+ I            | 11
+ heard        | 2
+ them         | 2
+ say          | 2
+ Welcome      | 2
+ to           | 9
+ the          | 24
+ Hotel        | 4
+ California   | 4
+ Such         | 4
+ a            | 12
+ lovely       | 6
+ place        | 3
+ (such        | 2
+ a            | 12
+ lovely       | 6
+ place)       | 2
+ Such         | 4
+ a            | 12
+ lovely       | 6
+ face         | 2
+ Plenty       | 1
+ of           | 7
+ room         | 1
+ at           | 2
+ the          | 24
+ Hotel        | 4
+ California   | 4
+ Any          | 1
+ time         | 3
+ of           | 7
+ year         | 1
+ (any         | 1
+ time         | 3
+ of           | 7
+ year)        | 1
+ You          | 2
+ can          | 3
+ find         | 2
+ it           | 3
+ here         | 3
+ Her          | 1
+ mind         | 1
+ is           | 1
+ Tiffany-twisted | 1
+ She          | 2
+ got          | 2
+ the          | 24
+ Mercedes     | 1
+ benz         | 1
+ She          | 2
+ got          | 2
+ a            | 12
+ lot          | 1
+ of           | 7
+ pretty,      | 1
+ pretty       | 1
+ boys         | 1
+ she          | 5
+ calls        | 1
+ friends      | 1
+ How          | 1
+ they         | 2
+ dance        | 3
+ in           | 6
+ the          | 24
+ courtyard    | 1
+ Sweet        | 1
+ summer       | 1
+ sweat        | 1
+ Some         | 2
+ dance        | 3
+ to           | 9
+ remember     | 2
+ Some         | 2
+ dance        | 3
+ to           | 9
+ forget       | 1
+ So           | 1
+ I            | 11
+ called       | 1
+ up           | 5
+ the          | 24
+ Captain:     | 1
+ "Please      | 1
+ bring        | 1
+ me           | 2
+ my           | 3
+ wine"        | 1
+ He           | 1
+ said:        | 2
+ "We          | 3
+ haven't      | 1
+ had          | 3
+ that         | 1
+ spirit       | 1
+ here         | 3
+ since        | 1
+ 1969"        | 1
+ And          | 5
+ still        | 1
+ those        | 1
+ voices       | 2
+ are          | 3
+ calling      | 1
+ from         | 1
+ far          | 1
+ away         | 1
+ Wake         | 1
+ you          | 3
+ up           | 5
+ in           | 6
+ the          | 24
+ middle       | 1
+ of           | 7
+ the          | 24
+ night        | 3
+ Just         | 1
+ to           | 9
+ hear         | 1
+ them         | 2
+ say          | 2
+ Welcome      | 2
+ to           | 9
+ the          | 24
+ Hotel        | 4
+ California   | 4
+ Such         | 4
+ a            | 12
+ lovely       | 6
+ place        | 3
+ (such        | 2
+ a            | 12
+ lovely       | 6
+ place)       | 2
+ Such         | 4
+ a            | 12
+ lovely       | 6
+ face         | 2
+ They're      | 1
+ living       | 1
+ it           | 3
+ up           | 5
+ at           | 2
+ the          | 24
+ Hotel        | 4
+ California   | 4
+ What         | 1
+ a            | 12
+ nice         | 2
+ surprise     | 1
+ (what        | 1
+ a            | 12
+ nice         | 2
+ surprise)    | 1
+ Bring        | 1
+ your         | 1
+ alibis       | 1
+ Mirrors      | 1
+ on           | 2
+ the          | 24
+ ceiling      | 1
+ The          | 1
+ pink         | 1
+ champagne    | 1
+ on           | 2
+ ice          | 1
+ And          | 5
+ she          | 5
+ said:        | 2
+ "We          | 3
+ are          | 3
+ all          | 1
+ just         | 2
+ prisoners    | 1
+ here         | 3
+ of           | 7
+ our          | 1
+ own          | 1
+ device"      | 1
+ And          | 5
+ in           | 6
+ the          | 24
+ master's     | 1
+ chambers     | 1
+ They         | 2
+ gathered     | 1
+ for          | 3
+ the          | 24
+ feast        | 1
+ They         | 2
+ stab         | 1
+ it           | 3
+ with         | 1
+ their        | 1
+ steely       | 1
+ knives       | 1
+ But          | 2
+ they         | 2
+ just         | 2
+ can't        | 1
+ kill         | 1
+ the          | 24
+ beast        | 1
+ Last         | 1
+ thing        | 1
+ I            | 11
+ remember     | 2
+ I            | 11
+ was          | 3
+ running      | 1
+ for          | 3
+ the          | 24
+ door         | 1
+ I            | 11
+ had          | 3
+ to           | 9
+ find         | 2
+ the          | 24
+ passage      | 1
+ back         | 1
+ To           | 1
+ the          | 24
+ place        | 3
+ I            | 11
+ was          | 3
+ before       | 1
+ "Relax,"     | 1
+ said         | 1
+ the          | 24
+ night        | 3
+ man          | 1
+ "We          | 3
+ are          | 3
+ programmed   | 1
+ to           | 9
+ receive      | 1
+ You          | 2
+ can          | 3
+ check        | 1
+ out          | 1
+ any          | 1
+ time         | 3
+ you          | 3
+ like         | 1
+ But          | 2
+ you          | 3
+ can          | 3
+ never        | 1
+ leave"       | 1
+
+
+WORD HISTOGRAM
+
+----------------------------------------
+ On           | 1
+ a            | 12
+ dark         | 1
+ desert       | 1
+ highway      | 1
+ Cool         | 1
+ wind         | 1
+ in           | 6
+ my           | 3
+ hair         | 1
+ Warm         | 1
+ smell        | 1
+ of           | 7
+ colitas      | 1
+ Rising       | 1
+ up           | 5
+ through      | 1
+ the          | 24
+ air          | 1
+ Up           | 1
+ ahead        | 1
+ distance     | 1
+ I            | 11
+ saw          | 1
+ shimmering   | 1
+ light        | 1
+ My           | 1
+ head         | 1
+ grew         | 2
+ heavy,       | 1
+ and          | 1
+ sight        | 1
+ dim          | 1
+ had          | 3
+ to           | 9
+ stop         | 1
+ for          | 3
+ night        | 3
+ There        | 2
+ she          | 5
+ stood        | 1
+ doorway      | 1
+ heard        | 2
+ mission      | 1
+ bell         | 1
+ And          | 5
+ was          | 3
+ thinking     | 1
+ myself:      | 1
+ "This        | 1
+ could        | 2
+ be           | 2
+ heaven       | 1
+ or           | 1
+ this         | 1
+ hell"        | 1
+ Then         | 1
+ lit          | 1
+ candle       | 1
+ showed       | 1
+ me           | 2
+ way          | 1
+ were         | 1
+ voices       | 2
+ down         | 1
+ corridor     | 1
+ thought      | 1
+ them         | 2
+ say          | 2
+ Welcome      | 2
+ Hotel        | 4
+ California   | 4
+ Such         | 4
+ lovely       | 6
+ place        | 3
+ (such        | 2
+ place)       | 2
+ face         | 2
+ Plenty       | 1
+ room         | 1
+ at           | 2
+ Any          | 1
+ time         | 3
+ year         | 1
+ (any         | 1
+ year)        | 1
+ You          | 2
+ can          | 3
+ find         | 2
+ it           | 3
+ here         | 3
+ Her          | 1
+ mind         | 1
+ is           | 1
+ Tiffany-twisted | 1
+ She          | 2
+ got          | 2
+ Mercedes     | 1
+ benz         | 1
+ lot          | 1
+ pretty,      | 1
+ pretty       | 1
+ boys         | 1
+ calls        | 1
+ friends      | 1
+ How          | 1
+ they         | 2
+ dance        | 3
+ courtyard    | 1
+ Sweet        | 1
+ summer       | 1
+ sweat        | 1
+ Some         | 2
+ remember     | 2
+ forget       | 1
+ So           | 1
+ called       | 1
+ Captain:     | 1
+ "Please      | 1
+ bring        | 1
+ wine"        | 1
+ He           | 1
+ said:        | 2
+ "We          | 3
+ haven't      | 1
+ that         | 1
+ spirit       | 1
+ since        | 1
+ 1969"        | 1
+ still        | 1
+ those        | 1
+ are          | 3
+ calling      | 1
+ from         | 1
+ far          | 1
+ away         | 1
+ Wake         | 1
+ you          | 3
+ middle       | 1
+ Just         | 1
+ hear         | 1
+ They're      | 1
+ living       | 1
+ What         | 1
+ nice         | 2
+ surprise     | 1
+ (what        | 1
+ surprise)    | 1
+ Bring        | 1
+ your         | 1
+ alibis       | 1
+ Mirrors      | 1
+ on           | 2
+ ceiling      | 1
+ The          | 1
+ pink         | 1
+ champagne    | 1
+ ice          | 1
+ all          | 1
+ just         | 2
+ prisoners    | 1
+ our          | 1
+ own          | 1
+ device"      | 1
+ master's     | 1
+ chambers     | 1
+ They         | 2
+ gathered     | 1
+ feast        | 1
+ stab         | 1
+ with         | 1
+ their        | 1
+ steely       | 1
+ knives       | 1
+ But          | 2
+ can't        | 1
+ kill         | 1
+ beast        | 1
+ Last         | 1
+ thing        | 1
+ running      | 1
+ door         | 1
+ passage      | 1
+ back         | 1
+ To           | 1
+ before       | 1
+ "Relax,"     | 1
+ said         | 1
+ man          | 1
+ programmed   | 1
+ receive      | 1
+ check        | 1
+ out          | 1
+ any          | 1
+ like         | 1
+ never        | 1
+ leave"       | 1
